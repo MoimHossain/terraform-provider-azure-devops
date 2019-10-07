@@ -1,3 +1,11 @@
+.env
+.vscode/
+bin/
+
+terraform-provider-azure-devops
+terraform.log
+crash.log
+
 #  Local .terraform directories
 **/.terraform/*
 
